@@ -12,4 +12,6 @@ Local validation with R 4.4.2 on macOS arm64 returned 0 errors, 0 warnings and o
 
 The release tag identifies a fixed manuscript snapshot. Package version 0.2.0 and the underlying study results are unchanged.
 
-Archived manuscript snapshot: [doi:10.5281/zenodo.24046928](https://doi.org/10.5281/zenodo.24046928). The archive contains package version 0.2.0 and the repository files at commit `7706aebb04cbf6ac538e1a48f13917f90d12b88e`.
+Archived manuscript snapshot: [doi:10.5281/zenodo.24046928](https://doi.org/10.5281/zenodo.24046928). The archive contains package version 0.2.0 and the repository files at commit `fd35b57f823ce6badbfebecab422eae57ebf2306`.
+
+Documentation correction: removed an unpublished article title and author list from the repository description and archived README. Package source, data and version 0.2.0 are unchanged.

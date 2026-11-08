@@ -68,7 +68,7 @@ Power and minimum-detectable-effect values are interpolated from a stored grid (
 
 The bundled reproduction test compares four representative enrichment ratios with fixed reference results using the original 5% Monte Carlo tolerance. This is a numerical regression test, not a full rerun from raw expression matrices. The root configuration test checks library coverage and documents the exclusion behavior. Independent [GitHub Actions validation](https://github.com/liu-biomed/kidneyAgeBench/actions/runs/42437757263) with R 4.4.2 on Linux returned `Status: OK` for `R CMD check`; installation, examples and configuration tests also passed.
 
-The fixed manuscript snapshot uses release tag `manuscript-20261108` and contains package version `0.2.0`. The tag identifies the repository snapshot; it does not denote a change to the study algorithms. This fixed version is archived at [doi:10.5281/zenodo.24046928](https://doi.org/10.5281/zenodo.24046928) (commit `7706aebb04cbf6ac538e1a48f13917f90d12b88e`). Cite this version DOI when referring to the manuscript software; subsequent documentation updates on the main branch do not alter the archived snapshot.
+The fixed manuscript snapshot uses release tag `manuscript-20261108` and contains package version `0.2.0`. The tag identifies the repository snapshot; it does not denote a change to the study algorithms. This fixed version is archived at [doi:10.5281/zenodo.24046928](https://doi.org/10.5281/zenodo.24046928) (commit `fd35b57f823ce6badbfebecab422eae57ebf2306`). Cite this version DOI when referring to the manuscript software; subsequent documentation updates on the main branch do not alter the archived snapshot.
 
 ## License and citation
 
