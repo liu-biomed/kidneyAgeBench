@@ -1,5 +1,7 @@
 # kidneyAgeBench
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24046928.svg)](https://doi.org/10.5281/zenodo.24046928)
+
 Reproducible benchmarking of kidney ageing gene sets against chronological age in human kidney reference transcriptomes.
 
 kidneyAgeBench provides reusable R functions, reference summary statistics, examples and tests for benchmarking kidney ageing gene sets. The package is developed and maintained by Menghan Liu.
@@ -64,12 +66,12 @@ Power and minimum-detectable-effect values are interpolated from a stored grid (
 
 ## Reproduction and versioning
 
-The bundled reproduction test compares four representative enrichment ratios with fixed reference results using the original 5% Monte Carlo tolerance. This is a numerical regression test, not a full rerun from raw expression matrices. The root configuration test checks library coverage and documents the exclusion behavior.
+The bundled reproduction test compares four representative enrichment ratios with fixed reference results using the original 5% Monte Carlo tolerance. This is a numerical regression test, not a full rerun from raw expression matrices. The root configuration test checks library coverage and documents the exclusion behavior. Independent [GitHub Actions validation](https://github.com/liu-biomed/kidneyAgeBench/actions/runs/42437757263) with R 4.4.2 on Linux returned `Status: OK` for `R CMD check`; installation, examples and configuration tests also passed.
 
-The fixed manuscript snapshot uses release tag `manuscript-20261108` and contains package version `0.2.0`. The tag identifies the repository snapshot; it does not denote a change to the study algorithms. A version-specific archival DOI will be added after Zenodo archiving is complete.
+The fixed manuscript snapshot uses release tag `manuscript-20261108` and contains package version `0.2.0`. The tag identifies the repository snapshot; it does not denote a change to the study algorithms. This fixed version is archived at [doi:10.5281/zenodo.24046928](https://doi.org/10.5281/zenodo.24046928) (commit `7706aebb04cbf6ac538e1a48f13917f90d12b88e`). Cite this version DOI when referring to the manuscript software; subsequent documentation updates on the main branch do not alter the archived snapshot.
 
 ## License and citation
 
 The original package declares **MIT + file LICENSE**. Its copyright record is preserved under `kidneyAgeBench/LICENSE`; the full MIT text is provided as `LICENSE`. Derived gene-level data and gene annotations retain the attribution and source conditions of their original datasets and publications; the code license does not supersede third-party rights. See `DATA_PROVENANCE.md`.
 
-Use `CITATION.cff` to cite the software. Contact: Menghan Liu, lmhdoc@163.com, as recorded in the original package DESCRIPTION.
+Software citation: Liu M (2026). *kidneyAgeBench: Benchmarking Kidney Ageing Gene Sets*. Package version 0.2.0, repository snapshot manuscript-20261108. Zenodo. https://doi.org/10.5281/zenodo.24046928. Machine-readable citation metadata are provided in `CITATION.cff`. Contact: Menghan Liu, lmhdoc@163.com, as recorded in the original package DESCRIPTION.
