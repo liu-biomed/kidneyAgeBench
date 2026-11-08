@@ -8,7 +8,7 @@ This release contains kidneyAgeBench **0.2.0**, the R package used in the accomp
 - Clarifies that co-expression/VIF calibration, deconvolution and clinical analyses are supplied in the separate study analysis archive.
 - Documents the historical `coprimary` option, the two-dataset minimum, and the resulting 48-set/46-set coverage.
 
-Local validation with R 4.4.2 on macOS arm64 returned 0 errors, 0 warnings and one installed-size NOTE (5.2 MB). Four representative reproduction tests passed. Independent Linux validation with R 4.4.2 completed successfully: `R CMD check` returned `Status: OK`; package installation, quick-start examples and the 48-set/46-set configuration tests passed. [GitHub Actions validation](https://github.com/liu-biomed/kidneyAgeBench/actions/runs/42437757263).
+Local validation with R 4.4.2 on macOS arm64 returned 0 errors, 0 warnings and one installed-size NOTE (5.2 MB). Four representative reproduction tests passed. Independent Linux validation with R 4.4.2 completed successfully: `R CMD check` returned `Status: OK`; package installation, quick-start examples and the 48-set/46-set configuration tests passed. [GitHub Actions validation](https://github.com/liu-biomed/kidneyAgeBench/actions/runs/42441664627).
 
 The release tag identifies a fixed manuscript snapshot. Package version 0.2.0 and the underlying study results are unchanged.
 
