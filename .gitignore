@@ -1,0 +1,16 @@
+# Local R and editor state
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.DS_Store
+*.Rcheck/
+*.tar.gz
+*.zip
+.env
+.env.*
+*.pem
+*.key
+raw_data/
+clinical_data/
+private/
