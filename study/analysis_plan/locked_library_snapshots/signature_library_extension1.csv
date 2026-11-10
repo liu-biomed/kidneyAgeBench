@@ -1,0 +1,41 @@
+sig_id,class,label,pmid,gene_orig,dir,note,gene
+C17_PMID37404805,C,DN ageing-related signature genes,37404805,EFEMP1,0,extension 1,EFEMP1
+C17_PMID37404805,C,DN ageing-related signature genes,37404805,GHR,0,extension 1,GHR
+C17_PMID37404805,C,DN ageing-related signature genes,37404805,VEGFA,0,extension 1,VEGFA
+C18_PMID37553608,C,ESRD cellular-senescence signature genes,37553608,FOS,0,extension 1,FOS
+C18_PMID37553608,C,ESRD cellular-senescence signature genes,37553608,FOXO3,0,extension 1,FOXO3
+C18_PMID37553608,C,ESRD cellular-senescence signature genes,37553608,SIRT1,0,extension 1,SIRT1
+C18_PMID37553608,C,ESRD cellular-senescence signature genes,37553608,TP53,0,extension 1,TP53
+C18_PMID37553608,C,ESRD cellular-senescence signature genes,37553608,SMARCA4,0,extension 1,SMARCA4
+C19_PMID38435999,C,DKD-ageing co-differential diagnostic genes,38435999,IGF1,0,extension 1,IGF1
+C19_PMID38435999,C,DKD-ageing co-differential diagnostic genes,38435999,CETP,0,extension 1,CETP
+C19_PMID38435999,C,DKD-ageing co-differential diagnostic genes,38435999,PCK1,0,extension 1,PCK1
+C19_PMID38435999,C,DKD-ageing co-differential diagnostic genes,38435999,FOS,0,extension 1,FOS
+C19_PMID38435999,C,DKD-ageing co-differential diagnostic genes,38435999,HSPA1A,0,extension 1,HSPA1A
+C20_PMID38390397,C,Glomerular DN senescence signature genes,38390397,BTG3,0,extension 1,BTG3
+C20_PMID38390397,C,Glomerular DN senescence signature genes,38390397,LOX,0,extension 1,LOX
+C20_PMID38390397,C,Glomerular DN senescence signature genes,38390397,FOXD1,0,extension 1,FOXD1
+C20_PMID38390397,C,Glomerular DN senescence signature genes,38390397,GJA1,0,extension 1,GJA1
+C21_PMID42222913,C,Sepsis-AKI senescence-associated biomarkers,42222913,LCN2,0,extension 1,LCN2
+C21_PMID42222913,C,Sepsis-AKI senescence-associated biomarkers,42222913,TIMP1,0,extension 1,TIMP1
+C22_PMID42107160,C,DKD VSMC senescence key genes,42107160,MMP14,0,extension 1,MMP14
+C22_PMID42107160,C,DKD VSMC senescence key genes,42107160,FOS,0,extension 1,FOS
+C24_PMID41476960,C,ccRCC senescence-related scoring model,41476960,ALDH1A3,0,extension 1,ALDH1A3
+C24_PMID41476960,C,ccRCC senescence-related scoring model,41476960,CREG1,0,extension 1,CREG1
+C24_PMID41476960,C,ccRCC senescence-related scoring model,41476960,ESM1,0,extension 1,ESM1
+C24_PMID41476960,C,ccRCC senescence-related scoring model,41476960,MMP1,0,extension 1,MMP1
+C24_PMID41476960,C,ccRCC senescence-related scoring model,41476960,NME2,0,extension 1,NME2
+C24_PMID41476960,C,ccRCC senescence-related scoring model,41476960,RHOB,0,extension 1,RHOB
+C24_PMID41476960,C,ccRCC senescence-related scoring model,41476960,SERPINB2,0,extension 1,SERPINB2
+C24_PMID41476960,C,ccRCC senescence-related scoring model,41476960,TNFAIP2,0,extension 1,TNFAIP2
+C24_PMID41476960,C,ccRCC senescence-related scoring model,41476960,TSPYL5,0,extension 1,TSPYL5
+C25_PMID40948769,C,DN mitochondrial/senescence hub genes,40948769,CLDN1,0,extension 1,CLDN1
+C25_PMID40948769,C,DN mitochondrial/senescence hub genes,40948769,TYROBP,0,extension 1,TYROBP
+C25_PMID40948769,C,DN mitochondrial/senescence hub genes,40948769,HDAC9,0,extension 1,HDAC9
+C25_PMID40948769,C,DN mitochondrial/senescence hub genes,40948769,CASP3,0,extension 1,CASP3
+C25_PMID40948769,C,DN mitochondrial/senescence hub genes,40948769,RCN1,0,extension 1,RCN1
+C27_PMID36189255,C,ccRCC cellular-senescence risk model (CellAge-derived),36189255,XAF1,0,extension 1,XAF1
+C27_PMID36189255,C,ccRCC cellular-senescence risk model (CellAge-derived),36189255,IRF7,0,extension 1,IRF7
+C27_PMID36189255,C,ccRCC cellular-senescence risk model (CellAge-derived),36189255,NTN4,0,extension 1,NTN4
+C27_PMID36189255,C,ccRCC cellular-senescence risk model (CellAge-derived),36189255,ETS1,0,extension 1,ETS1
+C27_PMID36189255,C,ccRCC cellular-senescence risk model (CellAge-derived),36189255,KL,0,extension 1,KL

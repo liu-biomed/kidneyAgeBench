@@ -1,0 +1,36 @@
+
+R version 4.4.2 (2024-10-31) -- "Pile of Leaves"
+Copyright (C) 2024 The R Foundation for Statistical Computing
+Platform: aarch64-apple-darwin20
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Reproduces the published benchmark enrichment ratios within Monte Carlo error
+> library(kidneyAgeBench)
+> ref <- read.csv(system.file("extdata", "benchmark_reference_results.csv", package = "kidneyAgeBench"))
+> L <- kab_library
+> for (id in c("A01_Rodwell2004", "B03_GenAge", "C07_PMID40319112", "A12_KAS82_corrected")) {
++   s <- L[L$sig_id == id, ]; ex <- if (grepl("^A1[12]_", id)) "G6" else character()
++   r <- kab_benchmark(s$gene, s$dir, exclude = ex, n_null = 1000)
++   e0 <- ref$enrichment[ref$sig_id == id]
++   stopifnot(abs(r$enrichment - e0) / e0 < 0.05)
++   cat(id, round(r$enrichment, 3), "vs", round(e0, 3), "\n")
++ }
+A01_Rodwell2004 1.396 vs 1.391 
+B03_GenAge 0.939 vs 0.939 
+C07_PMID40319112 0.675 vs 0.674 
+A12_KAS82_corrected 1.665 vs 1.658 
+> 
+> proc.time()
+   user  system elapsed 
+  0.494   0.045   0.540 

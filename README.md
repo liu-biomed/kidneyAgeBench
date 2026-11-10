@@ -6,6 +6,10 @@ Reproducible benchmarking of kidney ageing gene sets against chronological age i
 
 kidneyAgeBench provides reusable R functions, reference summary statistics, examples and tests for benchmarking kidney ageing gene sets. The package is developed and maintained by Menghan Liu.
 
+## Complete study materials
+
+The full analysis scripts, recorded plans, fixed plotting inputs and verification records are now available in [`study/`](study/), with a [reproduction guide](STUDY_ARCHIVE.md). Use the fixed [study-20261110 release](https://github.com/liu-biomed/kidneyAgeBench/releases/tag/study-20261110) or its [Zenodo archive](https://doi.org/10.5281/zenodo.24114198) for the complete study materials. This is distinct from the earlier R-package-only snapshot cited by the badge above. The existing package installation and version remain unchanged.
+
 ## Install
 
 The study package is **kidneyAgeBench 0.2.0**, written in R (R >= 4.1). The package uses base/recommended R functionality and has no additional declared runtime package dependencies. A local check was run with R 4.4.2 on macOS arm64.
@@ -50,7 +54,7 @@ kab_benchmark(c("CXCL13", "CCL19", "EGF"), direction = c(1, 1, -1))
 kab_benchmark_library(n_null = 2000, config = "locked")
 ```
 
-The library contains 48 gene sets. The default configuration pools six GEO donor cohorts, TCGA and CPTAC. GTEx is supplied separately and is excluded from this default pool. Only gene-level statistics and gene annotations are bundled; the repository does not contain individual-level expression matrices or clinical records.
+The library contains 48 gene sets. The default configuration pools six GEO donor cohorts, TCGA and CPTAC. GTEx is supplied separately and is excluded from this default pool. The R package bundles gene-level statistics and gene annotations. The separate `study/` archive also includes de-identified sample-level plotting inputs derived from public datasets; raw individual-level expression matrices are not bundled.
 
 ## Interpretation and known limits
 
@@ -62,7 +66,7 @@ The pooling rule requires measurements in at least two eligible datasets. Conseq
 
 Power and minimum-detectable-effect values are interpolated from a stored grid (set sizes 2–100); they are not fresh simulations for a new dataset. Values outside that size range are clamped by the underlying interpolation. The simple binomial directional P value assumes independent genes. Expression matching alone does not correct within-set co-expression.
 
-**Co-expression/VIF calibration, deconvolution, individual-sample signature scoring and clinical analyses are in the study analysis scripts, not functions implemented by this package.** The complete study scripts, figure inputs and data-access instructions are supplied as Additional file 3. The GitHub package is a reusable component of that study archive.
+**Co-expression/VIF calibration, deconvolution, individual-sample signature scoring and clinical analyses are in the study analysis scripts, not functions implemented by this package.** The complete study scripts, figure inputs and data-access instructions are supplied in `study/` and the fixed full-study archive described in [STUDY_ARCHIVE.md](STUDY_ARCHIVE.md). The R package is a reusable component of that study archive.
 
 ## Reproduction and versioning
 
@@ -72,6 +76,6 @@ The fixed manuscript snapshot uses release tag `manuscript-20261108` and contain
 
 ## License and citation
 
-The original package declares **MIT + file LICENSE**. Its copyright record is preserved under `kidneyAgeBench/LICENSE`; the full MIT text is provided as `LICENSE`. Derived gene-level data and gene annotations retain the attribution and source conditions of their original datasets and publications; the code license does not supersede third-party rights. See `DATA_PROVENANCE.md`.
+The original package declares **MIT + file LICENSE**. Its copyright record is preserved under `kidneyAgeBench/LICENSE`; the full MIT text is provided as `LICENSE`. Derived gene-level data and gene annotations retain the attribution and source conditions of their original datasets and publications; the code license does not supersede third-party rights. See `DATA_PROVENANCE.md`. The full study archive has component-specific rights described in [STUDY_ARCHIVE.md](STUDY_ARCHIVE.md#licenses-and-rights); the repository-root MIT license does not newly license all study materials.
 
 Software citation: Liu M (2026). *kidneyAgeBench: Benchmarking Kidney Ageing Gene Sets*. Package version 0.2.0, repository snapshot manuscript-20261108. Zenodo. https://doi.org/10.5281/zenodo.24046928. Machine-readable citation metadata are provided in `CITATION.cff`. Contact: Menghan Liu, lmhdoc@163.com, as recorded in the original package DESCRIPTION.

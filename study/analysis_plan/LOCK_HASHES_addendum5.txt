@@ -1,0 +1,8 @@
+locked_at_utc: 2026-10-31T10:53:31Z
+49cd7c01958f4f1a4e8cb88493fb136b298dcd6a1d9a74a8d2c817396d85d961  prereg/LOCKED_PLAN_ADDENDUM_5_benchmark.md
+7dbc3dc19d7a9dee38bfc7dd6701fd2ec819b929710f2e2693e009b50237c5fd  benchmark/signatures/signature_library_long.csv
+3e4c9e54f422be9ad874cdd8b5a6ea9bbd461238bd602a8387321b4abbd5f0fb  scripts/04_locked_definitions.R
+extension1_locked_at_utc: 2026-10-31T11:21:23Z (same methods as addendum 5; added after initial benchmark run; PMID 40243723 excluded: single gene; PMIDs 37800815, 41811638 excluded: gene lists only in figures)
+1f388590d1511995b58d4ba2b382b608fc907b30ebaa340104f894e0c198ce43  benchmark/signatures/signature_library_extension1.csv
+extension2_locked_at_utc: 2026-10-31T11:37:19Z (PubMed search extension; same methods)
+87f0b909182a17ea0fc8da481fce6aa5dff725614e73a7af1efd432925866095  benchmark/signatures/signature_library_extension2.csv

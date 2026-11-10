@@ -1,0 +1,12 @@
+script	configuration_note
+analysis_pipeline/revision/benchmark/screen.py	Historical local paths; configure project, raw input and derived output roots before raw-data analysis
+verification_scripts/core/cohorts_and_arms.R	Historical local paths; configure project, raw input and derived output roots before raw-data analysis
+verification_scripts/core/lock_inputs.py	Historical local paths; configure project, raw input and derived output roots before raw-data analysis
+verification_scripts/core/prepare_display.py	Historical local paths; configure project, raw input and derived output roots before raw-data analysis
+verification_scripts/core/results_register.py	Historical local paths; configure project, raw input and derived output roots before raw-data analysis
+verification_scripts/core/supplement_figures.py	Historical local paths; configure project, raw input and derived output roots before raw-data analysis
+verification_scripts/core/supplement_s9.py	Historical local paths; configure project, raw input and derived output roots before raw-data analysis
+verification_scripts/core/synchronize_text.py	Historical local paths; configure project, raw input and derived output roots before raw-data analysis
+verification_scripts/core/update_tables.py	Historical local paths; configure project, raw input and derived output roots before raw-data analysis
+verification_scripts/core/validate_delivery.py	Historical local paths; configure project, raw input and derived output roots before raw-data analysis
+verification_scripts/deconvolution/recompute_deconvolution.R	Historical local paths; configure project, raw input and derived output roots before raw-data analysis

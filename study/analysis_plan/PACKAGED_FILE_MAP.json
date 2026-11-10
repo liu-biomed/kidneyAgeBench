@@ -1,0 +1,32 @@
+[
+  {
+    "archived_path": "prereg/LOCKED_PLAN_ADDENDUM_5_benchmark.md",
+    "packaged_path": "analysis_plan/LOCKED_PLAN_ADDENDUM_5_benchmark.md",
+    "sha256": "49cd7c01958f4f1a4e8cb88493fb136b298dcd6a1d9a74a8d2c817396d85d961",
+    "matches_record": true
+  },
+  {
+    "archived_path": "benchmark/signatures/signature_library_long.csv",
+    "packaged_path": "analysis_plan/locked_library_snapshots/signature_library_long.csv",
+    "sha256": "7dbc3dc19d7a9dee38bfc7dd6701fd2ec819b929710f2e2693e009b50237c5fd",
+    "matches_record": true
+  },
+  {
+    "archived_path": "scripts/04_locked_definitions.R",
+    "packaged_path": "analysis_pipeline/revision/scripts/04_locked_definitions.R",
+    "sha256": "3e4c9e54f422be9ad874cdd8b5a6ea9bbd461238bd602a8387321b4abbd5f0fb",
+    "matches_record": true
+  },
+  {
+    "archived_path": "benchmark/signatures/signature_library_extension1.csv",
+    "packaged_path": "analysis_plan/locked_library_snapshots/signature_library_extension1.csv",
+    "sha256": "1f388590d1511995b58d4ba2b382b608fc907b30ebaa340104f894e0c198ce43",
+    "matches_record": true
+  },
+  {
+    "archived_path": "benchmark/signatures/signature_library_extension2.csv",
+    "packaged_path": "analysis_plan/locked_library_snapshots/signature_library_extension2.csv",
+    "sha256": "87f0b909182a17ea0fc8da481fce6aa5dff725614e73a7af1efd432925866095",
+    "matches_record": true
+  }
+]

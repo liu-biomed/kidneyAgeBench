@@ -1,0 +1,18 @@
+Package: kidneyAgeBench
+Type: Package
+Title: Leakage-Free Benchmarking of Kidney Ageing Gene Sets in Normal Human Kidney
+Version: 0.2.0
+Authors@R: person("Menghan", "Liu", role = c("aut", "cre"), email = "lmhdoc@163.com")
+Description: Tests whether a gene set labelled as kidney 'ageing' or 'senescence' related is
+    associated with chronological age in independent normal human kidney transcriptomes
+    (six GEO donor cohorts, TCGA solid tissue normal, CPTAC normal adjacent tissue, GTEx cortex).
+    Implements all five benchmark checks: leakage-free evaluation, expression-matched random
+    gene-set null (locked and co-primary without tumour-adjacent tissue), composition-adjusted
+    gene-level enrichment, statistical power and minimum detectable effect at the supplied set
+    size, and expression-matched directional concordance.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+LazyDataCompression: xz
+Depends: R (>= 4.1)
+RoxygenNote: 7.3.2

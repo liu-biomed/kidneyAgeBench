@@ -1,0 +1,23 @@
+{
+  "github_account": "liu-biomed",
+  "repository": "https://github.com/liu-biomed/kidneyAgeBench",
+  "package_version": "0.2.0",
+  "commit": "fd35b57f823ce6badbfebecab422eae57ebf2306",
+  "release_tag": "manuscript-20261108",
+  "github_repository_published": true,
+  "github_release_published": true,
+  "zenodo_doi": "10.5281/zenodo.24046928",
+  "ci_run": "https://github.com/liu-biomed/kidneyAgeBench/actions/runs/42441664627",
+  "release_url": "https://github.com/liu-biomed/kidneyAgeBench/releases/tag/manuscript-20261108",
+  "zenodo_concept_doi": "10.5281/zenodo.24046927",
+  "zenodo_record": "https://zenodo.org/records/24046928",
+  "ci_conclusion": "success",
+  "linux_R_CMD_check": "Status: OK",
+  "zenodo_archive_verified_files": 32,
+  "package_source_files_unchanged": 23,
+  "documentation_commit": "a76b5c035a74ff72b41fae2c6dc885846d40c9b5",
+  "repository_id": 1449931669,
+  "private_backup": "liu-biomed/kidneyAgeBench-private-backup-20261108",
+  "private_backup_repository_id": 1449901537,
+  "github_rebuilt": true
+}

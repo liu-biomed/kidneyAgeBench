@@ -1,0 +1,42 @@
+[
+  {
+    "figure": 1,
+    "pixel_identical_at_150dpi": true,
+    "dimensions": [
+      1004,
+      945
+    ]
+  },
+  {
+    "figure": 2,
+    "pixel_identical_at_150dpi": true,
+    "dimensions": [
+      1004,
+      1277
+    ]
+  },
+  {
+    "figure": 3,
+    "pixel_identical_at_150dpi": true,
+    "dimensions": [
+      1004,
+      1179
+    ]
+  },
+  {
+    "figure": 4,
+    "pixel_identical_at_150dpi": true,
+    "dimensions": [
+      1004,
+      1258
+    ]
+  },
+  {
+    "figure": 5,
+    "pixel_identical_at_150dpi": true,
+    "dimensions": [
+      1004,
+      1034
+    ]
+  }
+]

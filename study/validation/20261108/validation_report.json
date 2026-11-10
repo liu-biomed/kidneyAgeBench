@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-08",
+  "source_manuscript": "/Users/zheranliu/Kidney_Manuscript_Packages/KIR_Submission/Manuscript_KIR_revised.docx",
+  "latest_title_preserved": true,
+  "source_files_unchanged": true,
+  "headings": [
+    "Abstract",
+    "Background",
+    "Methods",
+    "Results",
+    "Discussion",
+    "Conclusions",
+    "List of abbreviations",
+    "Declarations",
+    "Additional files",
+    "References",
+    "Tables",
+    "Figure legends"
+  ],
+  "abstract_words_excluding_labels": 264,
+  "main_words_excluding_headings_citations": 4494,
+  "live_Zotero_citation_fields": 69,
+  "references": 50,
+  "citation_items_preserved": true,
+  "renumbered_by_new_first_appearance": true,
+  "protected_latest_paragraphs_unchanged": 55,
+  "main_table_cell_text_unchanged": true,
+  "supplement_equations_preserved": 33,
+  "supplement_media_preserved": 10,
+  "main_figures_and_workbook_byte_match_parent_materials": true,
+  "captions": [
+    {
+      "title_words": 8,
+      "legend_words": 209
+    },
+    {
+      "title_words": 7,
+      "legend_words": 204
+    },
+    {
+      "title_words": 8,
+      "legend_words": 150
+    },
+    {
+      "title_words": 10,
+      "legend_words": 198
+    },
+    {
+      "title_words": 8,
+      "legend_words": 161
+    }
+  ],
+  "package_source_files_unchanged": 23,
+  "R_package_validation": "Same unchanged package tested earlier on 2026-11-08: 0 errors, 0 warnings, 1 installed-size NOTE; 4 reproduction tests; primary library 48, no-CPTAC 46. Results reused after source-hash confirmation.",
+  "raw_expression_pipeline_rerun": false,
+  "github_published": false,
+  "doi_created": false,
+  "main_pages": 27,
+  "supplement_pages": 20,
+  "cover_letter_pages": 1,
+  "visual_review": "All pages reviewed; wide table kept on one landscape page; no clipped text or equations."
+}

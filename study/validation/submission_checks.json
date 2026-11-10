@@ -1,0 +1,22 @@
+{
+  "main_words_including_declarations": 3653,
+  "abstract_words_including_headings": 241,
+  "combined_words": 3894,
+  "live_citation_fields": 68,
+  "unique_references": 50,
+  "editable_tables": 2,
+  "separate_main_figures": 5,
+  "supplement_equations_preserved": 33,
+  "supplement_figures": 10,
+  "supplement_references": 9,
+  "supplement_workbook_byte_identical": true,
+  "numerical_assertions_checked": 77,
+  "numerical_mismatches": 0,
+  "main_figure_redraws_pixel_identical": 5,
+  "locked_hashes_matched": 5,
+  "R_package_test_cases_passed": 4,
+  "word_count_method": "Microsoft Word native compute statistics, separate copies containing the actual abstract or Introduction-through-end-matter",
+  "word_native_main_including_declarations": 3699,
+  "word_native_abstract_with_headings": 247,
+  "word_native_combined": 3946
+}

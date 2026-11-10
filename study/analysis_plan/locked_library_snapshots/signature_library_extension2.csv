@@ -1,0 +1,178 @@
+sig_id,class,label,pmid,gene_orig,dir,note,gene
+C28_PMID40253531,C,Lupus nephritis senescence-related diagnostic genes,40253531,STAT1,0,extension 2 (PubMed search),STAT1
+C28_PMID40253531,C,Lupus nephritis senescence-related diagnostic genes,40253531,ORC2,0,extension 2 (PubMed search),ORC2
+C28_PMID40253531,C,Lupus nephritis senescence-related diagnostic genes,40253531,GTF2B,0,extension 2 (PubMed search),GTF2B
+C29_PMID38846934,C,Membranous nephropathy senescence-related hub genes,38846934,PIK3R1,0,extension 2 (PubMed search),PIK3R1
+C29_PMID38846934,C,Membranous nephropathy senescence-related hub genes,38846934,CCND1,0,extension 2 (PubMed search),CCND1
+C29_PMID38846934,C,Membranous nephropathy senescence-related hub genes,38846934,TERF2IP,0,extension 2 (PubMed search),TERF2IP
+C29_PMID38846934,C,Membranous nephropathy senescence-related hub genes,38846934,SLC25A4,0,extension 2 (PubMed search),SLC25A4
+C29_PMID38846934,C,Membranous nephropathy senescence-related hub genes,38846934,CAPN2,0,extension 2 (PubMed search),CAPN2
+C29_PMID38846934,C,Membranous nephropathy senescence-related hub genes,38846934,TXN,0,extension 2 (PubMed search),TXN
+C30_PMID38292407,C,Diabetic glomerulopathy senescence-associated genes,38292407,VEGFA,0,extension 2 (PubMed search),VEGFA
+C30_PMID38292407,C,Diabetic glomerulopathy senescence-associated genes,38292407,IQGAP2,0,extension 2 (PubMed search),IQGAP2
+C30_PMID38292407,C,Diabetic glomerulopathy senescence-associated genes,38292407,JUN,0,extension 2 (PubMed search),JUN
+C30_PMID38292407,C,Diabetic glomerulopathy senescence-associated genes,38292407,PLAT,0,extension 2 (PubMed search),PLAT
+C30_PMID38292407,C,Diabetic glomerulopathy senescence-associated genes,38292407,ETS2,0,extension 2 (PubMed search),ETS2
+C30_PMID38292407,C,Diabetic glomerulopathy senescence-associated genes,38292407,ANG,0,extension 2 (PubMed search),ANG
+C30_PMID38292407,C,Diabetic glomerulopathy senescence-associated genes,38292407,MMP14,0,extension 2 (PubMed search),MMP14
+C30_PMID38292407,C,Diabetic glomerulopathy senescence-associated genes,38292407,VEGFC,0,extension 2 (PubMed search),VEGFC
+C30_PMID38292407,C,Diabetic glomerulopathy senescence-associated genes,38292407,SERPINE2,0,extension 2 (PubMed search),SERPINE2
+C30_PMID38292407,C,Diabetic glomerulopathy senescence-associated genes,38292407,CXCR2,0,extension 2 (PubMed search),CXCR2
+C30_PMID38292407,C,Diabetic glomerulopathy senescence-associated genes,38292407,PTGES,0,extension 2 (PubMed search),PTGES
+C30_PMID38292407,C,Diabetic glomerulopathy senescence-associated genes,38292407,EGF,0,extension 2 (PubMed search),EGF
+C31_PMID34984189,C,Papillary RCC stemness-associated senescence (GenAge) signature,34984189,CDK1,0,extension 2 (PubMed search),CDK1
+C31_PMID34984189,C,Papillary RCC stemness-associated senescence (GenAge) signature,34984189,HSPD1,0,extension 2 (PubMed search),HSPD1
+C31_PMID34984189,C,Papillary RCC stemness-associated senescence (GenAge) signature,34984189,PDGFRA,0,extension 2 (PubMed search),PDGFRA
+C31_PMID34984189,C,Papillary RCC stemness-associated senescence (GenAge) signature,34984189,CDKN2B,0,extension 2 (PubMed search),CDKN2B
+C31_PMID34984189,C,Papillary RCC stemness-associated senescence (GenAge) signature,34984189,PYCR1,0,extension 2 (PubMed search),PYCR1
+C31_PMID34984189,C,Papillary RCC stemness-associated senescence (GenAge) signature,34984189,SQSTM1,0,extension 2 (PubMed search),SQSTM1
+C31_PMID34984189,C,Papillary RCC stemness-associated senescence (GenAge) signature,34984189,SIRT3,0,extension 2 (PubMed search),SIRT3
+C31_PMID34984189,C,Papillary RCC stemness-associated senescence (GenAge) signature,34984189,CDKN1A,0,extension 2 (PubMed search),CDKN1A
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,213690_s_at,0,extension 2; treated as unsigned (direction label ambiguous in supplement),213690_s_at
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,215488_at,0,extension 2; treated as unsigned (direction label ambiguous in supplement),215488_at
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,217079_at,0,extension 2; treated as unsigned (direction label ambiguous in supplement),217079_at
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,231402_at,0,extension 2; treated as unsigned (direction label ambiguous in supplement),231402_at
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,234400_at,0,extension 2; treated as unsigned (direction label ambiguous in supplement),234400_at
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,235671_at,0,extension 2; treated as unsigned (direction label ambiguous in supplement),235671_at
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,239060_at,0,extension 2; treated as unsigned (direction label ambiguous in supplement),239060_at
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,240116_at,0,extension 2; treated as unsigned (direction label ambiguous in supplement),240116_at
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,240241_at,0,extension 2; treated as unsigned (direction label ambiguous in supplement),240241_at
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,241563_at,0,extension 2; treated as unsigned (direction label ambiguous in supplement),241563_at
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,243906_at,0,extension 2; treated as unsigned (direction label ambiguous in supplement),243906_at
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,244182_at,0,extension 2; treated as unsigned (direction label ambiguous in supplement),244182_at
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,ABCB9,0,extension 2; treated as unsigned (direction label ambiguous in supplement),ABCB9
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,ADAM11,0,extension 2; treated as unsigned (direction label ambiguous in supplement),ADAM11
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,ADAMTS16,0,extension 2; treated as unsigned (direction label ambiguous in supplement),ADAMTS16
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,ADAP1,0,extension 2; treated as unsigned (direction label ambiguous in supplement),ADAP1
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,AGER,0,extension 2; treated as unsigned (direction label ambiguous in supplement),AGER
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,AGRN,0,extension 2; treated as unsigned (direction label ambiguous in supplement),AGRN
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,AK1,0,extension 2; treated as unsigned (direction label ambiguous in supplement),AK1
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,ALDH6A1,0,extension 2; treated as unsigned (direction label ambiguous in supplement),ALDH6A1
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,AMN,0,extension 2; treated as unsigned (direction label ambiguous in supplement),AMN
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,ANKRD13B,0,extension 2; treated as unsigned (direction label ambiguous in supplement),ANKRD13B
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,ARF1,0,extension 2; treated as unsigned (direction label ambiguous in supplement),ARF1
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,ARHGEF1,0,extension 2; treated as unsigned (direction label ambiguous in supplement),ARHGEF1
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,ARL3,0,extension 2; treated as unsigned (direction label ambiguous in supplement),ARL3
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,ARMC5,0,extension 2; treated as unsigned (direction label ambiguous in supplement),ARMC5
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,ATG4D,0,extension 2; treated as unsigned (direction label ambiguous in supplement),ATG4D
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,ATP2A1,0,extension 2; treated as unsigned (direction label ambiguous in supplement),ATP2A1
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,ATXN7L3B,0,extension 2; treated as unsigned (direction label ambiguous in supplement),ATXN7L3B
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,BAIAP2L2,0,extension 2; treated as unsigned (direction label ambiguous in supplement),BAIAP2L2
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,BHLHE41,0,extension 2; treated as unsigned (direction label ambiguous in supplement),BHLHE41
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,BLOC1S3,0,extension 2; treated as unsigned (direction label ambiguous in supplement),BLOC1S3
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,C6orf136,0,extension 2; treated as unsigned (direction label ambiguous in supplement),C6orf136
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,C7orf50,0,extension 2; treated as unsigned (direction label ambiguous in supplement),C7orf50
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,CALR,0,extension 2; treated as unsigned (direction label ambiguous in supplement),CALR
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,CAMTA1,0,extension 2; treated as unsigned (direction label ambiguous in supplement),CAMTA1
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,CARM1,0,extension 2; treated as unsigned (direction label ambiguous in supplement),CARM1
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,CCDC149,0,extension 2; treated as unsigned (direction label ambiguous in supplement),CCDC149
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,CD36,0,extension 2; treated as unsigned (direction label ambiguous in supplement),CD36
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,CDC42EP4,0,extension 2; treated as unsigned (direction label ambiguous in supplement),CDC42EP4
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,CDK13,0,extension 2; treated as unsigned (direction label ambiguous in supplement),CDK13
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,CFLAR,0,extension 2; treated as unsigned (direction label ambiguous in supplement),CFLAR
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,CHRAC1,0,extension 2; treated as unsigned (direction label ambiguous in supplement),CHRAC1
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,CITED2,0,extension 2; treated as unsigned (direction label ambiguous in supplement),CITED2
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,CNPY4,0,extension 2; treated as unsigned (direction label ambiguous in supplement),CNPY4
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,CNTROB,0,extension 2; treated as unsigned (direction label ambiguous in supplement),CNTROB
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,COL1A1,0,extension 2; treated as unsigned (direction label ambiguous in supplement),COL1A1
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,CRYGEP,0,extension 2; treated as unsigned (direction label ambiguous in supplement),CRYGEP
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,DCBLD2,0,extension 2; treated as unsigned (direction label ambiguous in supplement),DCBLD2
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,DHX29,0,extension 2; treated as unsigned (direction label ambiguous in supplement),DHX29
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,DNAJC22,0,extension 2; treated as unsigned (direction label ambiguous in supplement),DNAJC22
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,EIF3H,0,extension 2; treated as unsigned (direction label ambiguous in supplement),EIF3H
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,EMID2,0,extension 2; treated as unsigned (direction label ambiguous in supplement),EMID2
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,ENOX2,0,extension 2; treated as unsigned (direction label ambiguous in supplement),ENOX2
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,EPB41L4B,0,extension 2; treated as unsigned (direction label ambiguous in supplement),EPB41L4B
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,EVX1,0,extension 2; treated as unsigned (direction label ambiguous in supplement),EVX1
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,FAM20C,0,extension 2; treated as unsigned (direction label ambiguous in supplement),FAM20C
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,FAM223B,0,extension 2; treated as unsigned (direction label ambiguous in supplement),FAM223B
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,FAM27E3,0,extension 2; treated as unsigned (direction label ambiguous in supplement),FAM27E3
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,FAM57B,0,extension 2; treated as unsigned (direction label ambiguous in supplement),FAM57B
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,FBXW7,0,extension 2; treated as unsigned (direction label ambiguous in supplement),FBXW7
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,FLJ11710,0,extension 2; treated as unsigned (direction label ambiguous in supplement),FLJ11710
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,FUT7,0,extension 2; treated as unsigned (direction label ambiguous in supplement),FUT7
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,GALNT1,0,extension 2; treated as unsigned (direction label ambiguous in supplement),GALNT1
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,GPC2,0,extension 2; treated as unsigned (direction label ambiguous in supplement),GPC2
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,GTSE1,0,extension 2; treated as unsigned (direction label ambiguous in supplement),GTSE1
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,HCN4,0,extension 2; treated as unsigned (direction label ambiguous in supplement),HCN4
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,HIST1H3E,0,extension 2; treated as unsigned (direction label ambiguous in supplement),HIST1H3E
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,HMGB2,0,extension 2; treated as unsigned (direction label ambiguous in supplement),HMGB2
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,ICAM5,0,extension 2; treated as unsigned (direction label ambiguous in supplement),ICAM5
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,IL12RB1,0,extension 2; treated as unsigned (direction label ambiguous in supplement),IL12RB1
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,IL34,0,extension 2; treated as unsigned (direction label ambiguous in supplement),IL34
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,JAG1,0,extension 2; treated as unsigned (direction label ambiguous in supplement),JAG1
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,JMJD8,0,extension 2; treated as unsigned (direction label ambiguous in supplement),JMJD8
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,KIF20B,0,extension 2; treated as unsigned (direction label ambiguous in supplement),KIF20B
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,KLK15,0,extension 2; treated as unsigned (direction label ambiguous in supplement),KLK15
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,LMNA,0,extension 2; treated as unsigned (direction label ambiguous in supplement),LMNA
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,LOC100128008,0,extension 2; treated as unsigned (direction label ambiguous in supplement),LOC100128008
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,LOC100652912,0,extension 2; treated as unsigned (direction label ambiguous in supplement),LOC100652912
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,LOC79999,0,extension 2; treated as unsigned (direction label ambiguous in supplement),LOC79999
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,MAPK8IP2,0,extension 2; treated as unsigned (direction label ambiguous in supplement),MAPK8IP2
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,MAPRE3,0,extension 2; treated as unsigned (direction label ambiguous in supplement),MAPRE3
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,MBNL1,0,extension 2; treated as unsigned (direction label ambiguous in supplement),MBNL1
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,MMP11,0,extension 2; treated as unsigned (direction label ambiguous in supplement),MMP11
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,MRC2,0,extension 2; treated as unsigned (direction label ambiguous in supplement),MRC2
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,MRM1,0,extension 2; treated as unsigned (direction label ambiguous in supplement),MRM1
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,MVK,0,extension 2; treated as unsigned (direction label ambiguous in supplement),MVK
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,NENF,0,extension 2; treated as unsigned (direction label ambiguous in supplement),NENF
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,NPEPL1,0,extension 2; treated as unsigned (direction label ambiguous in supplement),NPEPL1
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,NRG1,0,extension 2; treated as unsigned (direction label ambiguous in supplement),NRG1
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,NRXN2,0,extension 2; treated as unsigned (direction label ambiguous in supplement),NRXN2
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,OTUB2,0,extension 2; treated as unsigned (direction label ambiguous in supplement),OTUB2
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,PCDH9,0,extension 2; treated as unsigned (direction label ambiguous in supplement),PCDH9
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,PCYT2,0,extension 2; treated as unsigned (direction label ambiguous in supplement),PCYT2
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,PHF19,0,extension 2; treated as unsigned (direction label ambiguous in supplement),PHF19
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,PLCH2,0,extension 2; treated as unsigned (direction label ambiguous in supplement),PLCH2
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,PLEKHB1,0,extension 2; treated as unsigned (direction label ambiguous in supplement),PLEKHB1
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,PNISR,0,extension 2; treated as unsigned (direction label ambiguous in supplement),PNISR
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,POF1B,0,extension 2; treated as unsigned (direction label ambiguous in supplement),POF1B
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,PRKAR2A,0,extension 2; treated as unsigned (direction label ambiguous in supplement),PRKAR2A
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,PRX,0,extension 2; treated as unsigned (direction label ambiguous in supplement),PRX
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,PTCRA,0,extension 2; treated as unsigned (direction label ambiguous in supplement),PTCRA
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,PWWP2B,0,extension 2; treated as unsigned (direction label ambiguous in supplement),PWWP2B
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,RAB3A,0,extension 2; treated as unsigned (direction label ambiguous in supplement),RAB3A
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,RASAL3,0,extension 2; treated as unsigned (direction label ambiguous in supplement),RASAL3
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,RBM17,0,extension 2; treated as unsigned (direction label ambiguous in supplement),RBM17
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,RBMS3,0,extension 2; treated as unsigned (direction label ambiguous in supplement),RBMS3
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,RIF1,0,extension 2; treated as unsigned (direction label ambiguous in supplement),RIF1
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,RNASET2,0,extension 2; treated as unsigned (direction label ambiguous in supplement),RNASET2
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,RNF207,0,extension 2; treated as unsigned (direction label ambiguous in supplement),RNF207
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,RP11-271C24.3,0,extension 2; treated as unsigned (direction label ambiguous in supplement),RP11-271C24.3
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,RPP25,0,extension 2; treated as unsigned (direction label ambiguous in supplement),RPP25
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,RUNX1,0,extension 2; treated as unsigned (direction label ambiguous in supplement),RUNX1
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,SARDH,0,extension 2; treated as unsigned (direction label ambiguous in supplement),SARDH
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,SCN2B,0,extension 2; treated as unsigned (direction label ambiguous in supplement),SCN2B
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,SCNN1A,0,extension 2; treated as unsigned (direction label ambiguous in supplement),SCNN1A
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,SEMA7A,0,extension 2; treated as unsigned (direction label ambiguous in supplement),SEMA7A
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,SERGEF,0,extension 2; treated as unsigned (direction label ambiguous in supplement),SERGEF
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,SEZ6L2,0,extension 2; treated as unsigned (direction label ambiguous in supplement),SEZ6L2
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,SHISA4,0,extension 2; treated as unsigned (direction label ambiguous in supplement),SHISA4
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,SIGLEC8,0,extension 2; treated as unsigned (direction label ambiguous in supplement),SIGLEC8
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,SIN3A,0,extension 2; treated as unsigned (direction label ambiguous in supplement),SIN3A
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,SIRT5,0,extension 2; treated as unsigned (direction label ambiguous in supplement),SIRT5
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,SKAP2,0,extension 2; treated as unsigned (direction label ambiguous in supplement),SKAP2
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,SLC25A5-AS1,0,extension 2; treated as unsigned (direction label ambiguous in supplement),SLC25A5-AS1
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,SLC35F3,0,extension 2; treated as unsigned (direction label ambiguous in supplement),SLC35F3
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,SMOX,0,extension 2; treated as unsigned (direction label ambiguous in supplement),SMOX
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,SMTNL2,0,extension 2; treated as unsigned (direction label ambiguous in supplement),SMTNL2
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,SOX30P1,0,extension 2; treated as unsigned (direction label ambiguous in supplement),SOX30P1
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,SPN,0,extension 2; treated as unsigned (direction label ambiguous in supplement),SPN
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,SURF2,0,extension 2; treated as unsigned (direction label ambiguous in supplement),SURF2
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,TFR2,0,extension 2; treated as unsigned (direction label ambiguous in supplement),TFR2
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,TFRC,0,extension 2; treated as unsigned (direction label ambiguous in supplement),TFRC
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,TGFBR3,0,extension 2; treated as unsigned (direction label ambiguous in supplement),TGFBR3
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,TMUB1,0,extension 2; treated as unsigned (direction label ambiguous in supplement),TMUB1
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,TNFRSF10C,0,extension 2; treated as unsigned (direction label ambiguous in supplement),TNFRSF10C
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,TNK2,0,extension 2; treated as unsigned (direction label ambiguous in supplement),TNK2
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,TNPO2,0,extension 2; treated as unsigned (direction label ambiguous in supplement),TNPO2
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,TRIM62,0,extension 2; treated as unsigned (direction label ambiguous in supplement),TRIM62
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,TUSC5,0,extension 2; treated as unsigned (direction label ambiguous in supplement),TUSC5
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,U2AF2,0,extension 2; treated as unsigned (direction label ambiguous in supplement),U2AF2
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,UNC13C,0,extension 2; treated as unsigned (direction label ambiguous in supplement),UNC13C
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,ZCCHC3,0,extension 2; treated as unsigned (direction label ambiguous in supplement),ZCCHC3
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,ZDHHC4,0,extension 2; treated as unsigned (direction label ambiguous in supplement),ZDHHC4
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,ZNF205,0,extension 2; treated as unsigned (direction label ambiguous in supplement),ZNF205
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,ZNF503,0,extension 2; treated as unsigned (direction label ambiguous in supplement),ZNF503
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,ZNF574,0,extension 2; treated as unsigned (direction label ambiguous in supplement),ZNF574
+B08_Sood2015,B,Sood 2015 multi-tissue healthy-ageing RNA classifier (150 probe-sets),26343147,ZNF628,0,extension 2; treated as unsigned (direction label ambiguous in supplement),ZNF628

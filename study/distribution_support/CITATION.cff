@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite this software when using the kidneyAgeBench package."
+type: software
+title: "kidneyAgeBench: Benchmarking Kidney Ageing Gene Sets"
+version: 0.2.0
+authors:
+  - family-names: Liu
+    given-names: Menghan
+    email: lmhdoc@163.com
+license: MIT
+abstract: "R package for expression-matched benchmarking of kidney ageing gene sets using gene-level reference statistics."
+keywords:
+  - kidney
+  - ageing
+  - transcriptomics
+  - gene sets
+repository-code: "https://github.com/liu-biomed/kidneyAgeBench"
+url: "https://github.com/liu-biomed/kidneyAgeBench"
+date-released: "2026-11-08"
+doi: "10.5281/zenodo.24046928"

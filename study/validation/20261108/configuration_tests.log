@@ -1,0 +1,14 @@
+kidneyAgeBench 0.2.0 
+  n_measured mean_abs_z null_mean enrichment      emp_p enrichment_comp
+1          4   3.393017  2.439098   1.391095 0.09045477       0.7218548
+  emp_p_comp power_ER1.3    mde80 pct_nominal n_signed pct_dir_correct
+1  0.7301349       0.232 1.864835          75        0              NA
+  D_excess_z p_dir_matched D_excess_z_comp p_dir_matched_comp p_dir
+1         NA            NA              NA                 NA    NA
+  n_measured mean_abs_z null_mean enrichment        emp_p enrichment_comp
+1          3   4.422984  2.156855   2.050663 0.0009995002        3.219243
+    emp_p_comp power_ER1.3    mde80 pct_nominal n_signed pct_dir_correct
+1 0.0004997501       0.228 1.976526         100        3             100
+  D_excess_z p_dir_matched D_excess_z_comp p_dir_matched_comp p_dir
+1   2.626217  0.0009995002        4.005507       0.0004997501 0.125
+PASS: primary 48 sets; no-CPTAC 46 sets; excluded KAS IDs and minimum-dataset rule verified.

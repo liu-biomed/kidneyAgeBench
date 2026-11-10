@@ -14,3 +14,8 @@ The package contains summary statistics and annotations, not individual-level ma
 GEO series: GSE36895, GSE60807, GSE147451, GSE66272, GSE93069 and GSE167093. Reference cohorts contribute 441 inferred GEO donors, 129 TCGA profiles and 75 CPTAC profiles. GTEx provides 85 separately analysed cortex samples. The GSE147451 donor identities include inferred bilateral pairs. Cohort overlap is not fully resolved for every historical signature; users must review the source publications and the manuscript's exclusions before interpreting a test as external validation.
 
 The MIT code license does not replace the conditions attached to original public datasets or third-party gene-set databases. The historical HPA/GTEx overlap question and ERCB/RAAG independence limitation remain scientific provenance issues, not solved by software packaging.
+
+
+## Complete study archive added on 10 November 2026
+
+The statements above describe the original R-package distribution. The separate `study/` directory contains the full study analysis archive, including some de-identified sample-level plotting inputs derived from public datasets. Raw expression matrices are not bundled. See [STUDY_ARCHIVE.md](STUDY_ARCHIVE.md) for scope, access, versioning and component-specific rights.
